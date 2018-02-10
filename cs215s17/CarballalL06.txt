@@ -1,0 +1,54 @@
+/home/student/mcarballal/cs215s17
+.
+├── CarballalL06.txt
+├── Lab01
+│   ├── CarballalL01a.py
+│   ├── CarballalL01b.cpp
+│   └── L01b.out
+├── Lab02
+│   ├── CarballalL02a.cpp
+│   ├── CarballalL02b.cpp
+│   ├── L02a.out
+│   ├── L02b.out
+│   └── words.txt
+├── Lab03
+│   ├── CarballalL03a.cpp
+│   ├── CarballalL03b.cpp
+│   ├── L03.out
+│   └── words.txt
+├── Lab04
+│   ├── a.out
+│   ├── CarballalL04a.cpp
+│   ├── CarballalL04app.cpp
+│   ├── CarballalL04b.cpp
+│   ├── CarballalL04c.cpp
+│   ├── CarballalL04.h
+│   ├── L04.out
+│   ├── Lab04.h
+│   ├── manywords.txt
+│   ├── output.txt
+│   ├── pinput.txt
+│   ├── solution.txt
+│   ├── words.output
+│   └── words.txt
+├── Lab05
+│   ├── CarballallL05.cpp
+│   ├── L05.out
+│   ├── Lab05.cpp
+│   ├── Lab05.h
+│   ├── Lab05TextAnswers
+│   └── words.txt
+└── Lab06
+    ├── CarballalL06.cpp
+    ├── CarballalL06.h
+    ├── difwords.txt
+    ├── L06.out
+    ├── Lab06app.cpp
+    ├── Lab06app.o
+    ├── Lab06.cpp
+    ├── Lab06.h
+    ├── Lab06.o
+    ├── makefile
+    └── words.txt
+
+6 directories, 44 files

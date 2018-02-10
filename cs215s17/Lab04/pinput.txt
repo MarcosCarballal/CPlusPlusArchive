@@ -1,0 +1,14 @@
+A haiku is a short poetic form. Traditional
+haiku contain 17 syllables in 3 lines of 5, 7,
+and 5 syllables respectively.
+
+Imagine what a programmer's life
+would be with haiku error messages!
+
+To have no errors
+Would be life without meaning
+No struggle, no joy
+
+Yesterday it worked.
+Today it is not working.
+Programs are like that.

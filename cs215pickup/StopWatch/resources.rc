@@ -1,0 +1,14 @@
+// File: resources.rc
+// Author: 
+// Project: Stop Watch MFC Example
+// Description of file contents:
+
+BACKGROUND_BMP 	BITMAP 	SWBackground.bmp
+
+HOURHAND_BMP	BITMAP	HourHand.bmp
+MINUTEHAND_BMP	BITMAP	MinuteHand.bmp
+SECONDHAND_BMP	BITMAP	SecondHand.bmp
+
+HOURMASK_BMP	BITMAP	HourMask.bmp
+MINUTEMASK_BMP	BITMAP	MinuteMask.bmp
+SECONDMASK_BMP	BITMAP	SecondMask.bmp

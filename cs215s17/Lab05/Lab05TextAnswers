@@ -1,0 +1,27 @@
+Part 1
+6. The output of this setup of code is as follows
+"Create a variable called wd1.
+Set the word in wd1 to "Sonoma".
+Create a variable called wd2
+Write out the contents of wd1.
+Sonoma                3       3       0       0
+Write out the contents of wd2.
+Sonoma                3       3       0       0
+Set the word in wd2 to "State".
+Write out the contents of wd2.
+State                 5       6       0       0
+Write out the word contained in wd1.
+The word in wd1 is Sonoma
+End the program."
+7. The program called the constructor function once.
+8. The program called the copy constructor function once.
+9. The program called the destructor function twice after
+   the end of the program.
+10. The program called the SetWord function once.
+11. The program called the GetWord function once.
+12. The program called the WriteWord function three times.
+13. The program called the constructor 11 times in total;
+    10 times at the beginning and once at the end. The 
+    program also calls the destructor function a total of
+    13 times at the end of the program.
+14.  
